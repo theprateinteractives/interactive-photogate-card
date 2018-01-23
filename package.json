@@ -1,5 +1,5 @@
 {
-  "name": "starter-preact",
+  "name": "interactive-photogate-card",
   "version": "0.1.0",
   "description": "Our interactive kit starter for preact",
   "main": "index.js",
@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/theprateinteractives/starter-preact#readme",
   "dependencies": {
-    "interactive-kit": "^1.3.2",
-    "preact": "^8.2.1"
+    "interactive-kit": "^1.4.0",
+    "preact": "^8.2.7"
   },
   "interactive-kit": {
     "jsx": "preact.h"
